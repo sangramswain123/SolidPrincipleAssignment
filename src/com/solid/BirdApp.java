@@ -16,6 +16,9 @@ public class BirdApp {
 		
 		Bird penguin = new Penguin();
 		penguin.display();
+		
+		System.out.println("Changes in main method");
+		System.out.println("change 2");
 				
 	}
 
